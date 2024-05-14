@@ -1,0 +1,11 @@
+input, select, h1{
+    width: 50vh;
+    height: 30px;
+    display: block;
+    margin: 20px;
+    text-align: center;
+}
+
+#map { 
+    height: 400px; 
+}
